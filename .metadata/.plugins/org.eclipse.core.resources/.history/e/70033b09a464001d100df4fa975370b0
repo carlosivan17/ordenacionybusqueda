@@ -1,0 +1,24 @@
+package ordenacionybusqueda;
+
+import java.util.Scanner;
+
+public class ActasDeNotas {
+
+	public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+		
+		String Curso;
+		String PeriodoLectivo;
+		String Carrera;
+		String Modalidad;
+		String CodigoCurso;
+		String CodigoAsig;
+		String CodigoProgra;
+		
+		System.out.println("Datos Generales ");
+		System.out.println("Curso:  ");
+		Curso = sc.next();
+
+	}
+
+}
